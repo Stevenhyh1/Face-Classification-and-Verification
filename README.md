@@ -41,7 +41,7 @@ Install [Pytorch](https://pytorch.org/). The code has been tested with Python 3.
 * Use pip to install required Python packages
 
     ```
-    pip install -r requirements
+    pip install -r requirements.txt
     ```
 
 * Dataset can be downloaded from [Dataset](https://drive.google.com/file/d/1-K2YgajOCNtggFKVr4Zj05cFUhDaZsRJ/view?usp=sharing)
