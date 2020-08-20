@@ -55,12 +55,12 @@ The training data has two parts (*medium* and *large*). The medium dataset is us
     python main.py --data_path=YOUR_DATASET_PATH --mode=pretrain --loss=None
     ```
 
-* Evaluate with the pretrained [model]() by
+* Evaluate with the pretrained [model](https://drive.google.com/file/d/1oCAyRpyD7WpcABpp4cN3YL4xduNMgDY4/view?usp=sharing) by
     ```
     python main.py --data_path=YOUR_DATASET_PATH --mode=eval --loss=None
     ```
 
-* Continue training using center loss on medium dataset with the [model]() by 
+* Continue training using center loss on medium dataset with the [model](https://drive.google.com/file/d/16nMI8rTCCTSE2LhX3Z0coJ9rfv2w8tLC/view?usp=sharing) by 
     ```
     python main.py --data_path=YOUR_DATASET_PATH --mode=cont_pre --loss=center
     ```
